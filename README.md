@@ -1,7 +1,7 @@
 ## Oii, seja bem vindo(a) ao meu GitHub
 
 <div>
-  <h4>Me chamo Izabella Cavalcante, e sou estudante de Desenvolvimento Web pela TRYBE.</h4>
+  <h3>Me chamo Izabella Cavalcante, e sou estudante de Desenvolvimento Web pela TRYBE.</h3>
 </div>
 
 <div align="center">
