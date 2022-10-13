@@ -20,6 +20,7 @@
 <br />
 
 <div>
+<h4>Habilidades/Hard Skills:</h4>
   <img align="center" alt="Iza-Js" height="30" width="125" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Iza-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Iza-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -27,10 +28,16 @@
   <img align="center" alt="Iza-TestLibrary" height="30" width="150" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
   <img align="center" alt="Iza-React" height="30" width="90" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Iza-ReactRouter" height="30" width="135" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+</div>
+</br>
+<div>
   <img align="center" alt="Iza-Redux" height="30" width="90" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 </div>
-  </br>
+
+## 
+
 <div>
+<h4>Ferramentas/Tools:</h4>
   <img align="center" alt="Iza-Linux" height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="Iza-VsCode" height="30" width="165" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img align="center" alt="Iza-Git" height="30" width="90" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
