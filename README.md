@@ -34,6 +34,7 @@
     <img align="center" alt="Iza-Redux" height="30" width="90" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img align="center" alt="Iza-TestLibrary" height="30" width="150" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
     <img align="center" alt="Iza-NodeJs" height="30" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="Iza-MySQL" height="30" width="95" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Iza-MongoDB" height="30" width="110" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
@@ -48,10 +49,6 @@
   <img align="center" alt="Iza-GitHub" height="30" width="100" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img align="center" alt="Iza-Trello" height="30" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img align="center" alt="Iza-Slack" height="30" width="100" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-</div>
-</br>
-<div>
-  <img align="center" alt="Iza-MySQL" height="30" width="95" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
   ##
