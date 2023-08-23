@@ -3,7 +3,7 @@
 </br>
 
 <div>
-  <p>Este é o meu repositório oficial no GitHub, destinado para o armazenamento dos meus projetos pessoais e desenvolvidos ao longo do meu curso na TRYBE. Sou estudante de Desenvolvimento web pela Trybe e recentemente dei início ao módulo de Desenvolvimento em Back-end. Mas já pude desenvolver o meu conhecimento nas áreas de Fundamentos do Desenvolvimento Web e no Desenvolvimento em Front-end. Sou uma pessoa muito comprometida com os meus objetivos e a minha maior meta atual é concluir este curso com uma boa qualidade dos meus conhecimentos. Passar a conhecer esse mundo web como dev e não mais só como pessoa usuária tem sido incrível, a cada módulo me impressiono com a dimensão e complexidade que é estar por trás das telas, agora não é mais só sobre rolar feeds, mas sim criá-los.
+  <p>Este é o meu repositório oficial no GitHub, destinado para o armazenamento dos meus projetos pessoais e desenvolvidos ao longo do meu curso na TRYBE. Sou Desenvolvedora web formada pela Trybe, uma escola de tecnologia, com foco em programação, mas orientada para o desenvolvimento de carreira. Minha formação é em Full-Stack, mas meu foco tem sido no desenvolvimento das minhas habilidade em Front-End. Sou uma pessoa comprometida com os meus objetivos e a minha maior meta atual tem sido adquirir experiência profissional com a programação. Passar a conhecer esse mundo web como dev e não mais só como pessoa usuária tem sido incrível, me impressiono com cada nova habilidade que eu adquiro e amo a complexidade que está por trás das telas. Agora não é mais só sobre rolar feeds, mas sim criá-los.
   </p>
 </div>
 
